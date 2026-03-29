@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Thiraporn 👋
+
+🌱 **I’m Learning**
+- Data engineering & visualization  
+- Real-world business applications of data  
+
+💻 **Skills**
+
+**Languages:** Java, Python, SQL, jQuery, HTML, JSP, React, Stored Procedures  
+**Frameworks:** Spring MVC, Spring Boot, Hibernate, JPA, Bootstrap  
+**Tools:** IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL  
+**Areas:** Java Web Development, Data Analysis
 
 <!--
 **Thiraporn/Thiraporn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
