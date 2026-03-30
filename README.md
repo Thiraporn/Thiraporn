@@ -11,8 +11,14 @@
 **Tools:** IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL  
 **Areas:** Java Web Development, Data Analysis
 
+🔭 **Hobbies**
+- 🎨 Draw digital pictures  
+- 📚 Self-learning (e.g., new skills, languages)  
+- 🗾 Beginner Japanese speaker
+
 <!--## 📫 Contact Me
 - Email: puithiraporn@gmail.com -->
+
 📫 **Contact Me**
 
 
