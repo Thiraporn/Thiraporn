@@ -2,7 +2,7 @@
  [![Email](https://img.shields.io/badge/Email-puithiraporn@gmail.com-red?style=flat&logo=gmail)](mailto:puithiraporn@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiraporn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiraporn)
  
-  I’m a Java Web Developer with experience building and maintaining web applications. I work on designing, developing, and optimizing web solutions using Java, Spring Boot, Hibernate, and related technologies. I’m passionate about combining web development with data analysis to create efficient and user-friendly applications.
+   I’m a Java Web Developer with experience building and maintaining web applications. I work on designing, developing, and optimizing web solutions using Java, Spring Boot, Hibernate, and related technologies. I’m passionate about combining web development with data analysis to create efficient and user-friendly applications.
   
 🌱 **I’m Learning**
   - Data engineering & visualization / real-world business applications of data  
@@ -32,14 +32,14 @@
   - 🗾 Beginner Japanese speaker
 
 <!--## 📫 Contact Me
-- Email: puithiraporn@gmail.com -->
+- Email: puithiraporn@gmail.com 
 
 
 📫 **Contact Me**
 
   [![Email](https://img.shields.io/badge/Email-puithiraporn@gmail.com-red?style=flat&logo=gmail)](mailto:puithiraporn@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiraporn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiraporn)
-
+-->
  
 
 <!--
