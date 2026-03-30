@@ -6,6 +6,7 @@
 
 
 💻 **Skills**
+
   **Languages:**  Java, Python, SQL, jQuery, HTML, JSP, React, Stored Procedures  
   **Frameworks:**  Spring MVC, Spring Boot, Hibernate, JPA, Bootstrap  
   **Tools:**  IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL  
