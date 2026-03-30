@@ -11,8 +11,11 @@
 **Tools:** IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL  
 **Areas:** Java Web Development, Data Analysis
 
-## 📫 Contact Me
-- Email: puithiraporn@gmail.com 
+<!--## 📫 Contact Me
+- Email: puithiraporn@gmail.com -->
+📫 **Contact Me**
+[![Email](https://img.shields.io/badge/Email-puithiraporn@gmail.com-red?style=flat&logo=gmail)](mailto:puithiraporn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiraporn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiraporn)
 <!--
 **Thiraporn/Thiraporn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
