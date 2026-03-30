@@ -30,7 +30,7 @@ I’m a Java Web Developer with experience building and maintaining web applicat
 🔭 **Hobbies**
   - 🎨 Draw digital pictures  
   - 📚 Self-learning (e.g., new skills, languages)  
-  - 🗾 Beginner Japanese speaker
+  -  🇯🇵 Beginner Japanese speaker
 
 <!--## 📫 Contact Me
 - Email: puithiraporn@gmail.com 
