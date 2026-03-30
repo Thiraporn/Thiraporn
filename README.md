@@ -1,12 +1,10 @@
 ## Hi there, I'm Thiraporn 👋
 
 🌱 **I’m Learning**
-
   - Data engineering & visualization  
   - Real-world business applications of data  
 
 💻 **Skills**
-
   **Languages:**  Java, Python, SQL, jQuery, HTML, JSP, React, Stored Procedures  
   **Frameworks:**  Spring MVC, Spring Boot, Hibernate, JPA, Bootstrap  
   **Tools:**  IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL  
@@ -21,7 +19,6 @@
 - Email: puithiraporn@gmail.com -->
 
 📫 **Contact Me**
-
   [![Email](https://img.shields.io/badge/Email-puithiraporn@gmail.com-red?style=flat&logo=gmail)](mailto:puithiraporn@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiraporn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiraporn)
 <!--
