@@ -14,7 +14,7 @@
   - Spring MVC, Spring Boot, Hibernate, JPA, Bootstrap  
   
   **🧰 Tools:**  
-  - IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL  
+  - IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL ,iReport,VScode
   
   **📊 Areas:**  
   - Java Web Development  
