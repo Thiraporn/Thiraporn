@@ -8,19 +8,17 @@ I’m a Java Web Developer with experience building and maintaining web applicat
   - Data engineering & visualization / real-world business applications of data  
   - Web development and new technology  
   - Python
+  - CI/CD implementation
 
 
 💻 **Skills**
 
   **📝 Languages:**  
   - Java, Python, SQL, jQuery, HTML, JSP, React, Stored Procedures  
-  
   **🛠 Frameworks:**  
   - Spring MVC, Spring Boot, Hibernate, JPA, Bootstrap  
-  
   **🧰 Tools:**  
   - IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL ,iReport,VScode
-  
   **📊 Areas:**  
   - Java Web Development  
   - Data Analysis
