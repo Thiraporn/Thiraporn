@@ -13,18 +13,13 @@ I’m a Java Web Developer with experience building and maintaining web applicat
 
 💻 **Skills**
 
-  **📝 Languages:**  
-  - Java, Python, SQL, jQuery, HTML, JSP, React, Stored Procedures,VB6
+  **📝 Languages:**   Java, Python, SQL, jQuery, HTML, JSP, React, Stored Procedures,VB6
      
-  **🛠 Frameworks:**  
-  - Spring MVC, Spring Boot, Hibernate, JPA, Bootstrap
+  **🛠 Frameworks:**  Spring MVC, Spring Boot, Hibernate, JPA, Bootstrap
     
-  **🧰 Tools:**  
-  - IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL ,Oracle,iReport,VScode,tomcate
+  **🧰 Tools:**   IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL ,Oracle,iReport,VScode,tomcate
     
-  **📊 Areas:**  
-  - Java Web Development  
-  - Data Analysis
+  **📊 Areas:**  Java Web Development,Data Analysis
 
 
 🔭👺 **Hobbies**
