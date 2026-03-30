@@ -1,8 +1,8 @@
 ## Hi there, I'm Thiraporn 👋
 
 🌱 **I’m Learning**
-  - Data engineering & visualization  
-  - Real-world business applications of data  
+  - Data engineering & visualization /Real-world business applications of data  
+  - Web development
 
 
 💻 **Skills**
