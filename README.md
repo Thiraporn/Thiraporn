@@ -36,8 +36,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiraporn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiraporn)
 
   📈 **GitHub Stats:**  
-  
-![Thiraporn's GitHub stats](https://github-readme-stats.vercel.app/api?username=puithiraporn&show_icons=true&theme=radical)
+  ![Thiraporn's GitHub stats](https://github-readme-stats.vercel.app/api?username=puithiraporn&show_icons=true&theme=github_dark)
+ 
 
 <!--
 **Thiraporn/Thiraporn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
