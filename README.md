@@ -1,8 +1,10 @@
 ## Hi there, I'm Thiraporn 👋
-
+  I’m a Java Web Developer with experience building and maintaining web applications. I work on designing, developing, and optimizing web solutions using Java, Spring Boot, Hibernate, and related technologies. I’m passionate about combining web development with data analysis to create efficient and user-friendly applications.
+  
 🌱 **I’m Learning**
-  - Data engineering & visualization /Real-world business applications of data  
-  - Web development
+  - Data engineering & visualization / real-world business applications of data  
+  - Web development and new technology  
+  - Python
 
 
 💻 **Skills**
