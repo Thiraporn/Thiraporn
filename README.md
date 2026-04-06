@@ -2,9 +2,9 @@
  [![Email](https://img.shields.io/badge/Email-puithiraporn@gmail.com-red?style=flat&logo=gmail)](mailto:puithiraporn@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiraporn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiraporn)
  
-I am a Java Web Developer with experience in both development and support of web applications. I work on designing, developing, and optimizing web solutions using Java, Spring MVC(Boot) and related technologies. I’m passionate about combining web development with data analysis to create efficient and user-friendly applications.
+I am a Java Web Developer with experience in both development and support of web applications. I work on designing, developing, and optimizing web solutions using Java, Spring MVC/Boot and related technologies. I’m passionate about leveraging SQL, web development with data analysis to create efficient and user-friendly applications.
   
-🌱 **I’m Learning** 🚀
+🌱 **I’m Learning** 
   - Web development and new technology  
   - Python
   - CI/CD implementation
@@ -15,7 +15,7 @@ I am a Java Web Developer with experience in both development and support of web
 💻 **Skills** 🛠
 
   🧠 **Languages**  
-  Java • Python • SQL • jQuery • HTML • JSP • React • VB6  
+  Java • Python • SQL • jQuery • HTML • JSP • CSS • React • VB6  
   
   ⚙️ **Frameworks**  
   Spring MVC • Spring Boot • Hibernate • JPA 
