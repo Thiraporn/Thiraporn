@@ -39,6 +39,26 @@ I am a Java Web Developer with experience in both development and support of web
   - 📚 Self-learning (e.g., new skills, languages)  
   - 🗻 Beginner Japanese speaker
 
+
+📄 **Resume** 📄
+
+You can download my resume here:
+
+👉 **[Download Resume](./20260211_Resume.pdf)** | **[Download Work_Experience](./20260211_ProjectOutline.pdf)** 
+
+Feel free to reach out if you have any questions.   
+
+
+こちらから履歴書をご覧いただけます:
+
+👉 **[履歴書をダウンロード](./20260211_履歴書_ティラポーン・ティーゴエン.pdf)**  |  **[職務経歴書をダウンロード](./20260211_職務経歴書_ティラポーン・ティーゴエン.pdf)**
+
+ご不明な点がございましたら、お気軽にご連絡ください。
+
+ 
+
+
+
 <!--## 📫 Contact Me
 - Email: puithiraporn@gmail.com 
 
