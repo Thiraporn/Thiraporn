@@ -10,7 +10,8 @@ I am a Java Web Developer with experience in both development and support of web
   - CI/CD implementation
   - Data engineering & visualization / real-world business applications of data  
 
-
+<br> 
+<br> 
 
 💻 **Skills** 🛠
 
@@ -33,14 +34,18 @@ I am a Java Web Developer with experience in both development and support of web
   Java Web Development • Data Analysis  
 
 
+<br> 
+<br> 
 
 🔭 **Hobbies** 👺
   - 🎨 Draw digital pictures  
   - 📚 Self-learning (e.g., new skills, languages)  
   - 🗻 Beginner Japanese speaker
 
+<br> 
+<br> 
 
-📄 **Resume** 📄
+📄 **For more details** 📄
 
 You can download my resume here:
 
