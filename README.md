@@ -2,24 +2,33 @@
  [![Email](https://img.shields.io/badge/Email-puithiraporn@gmail.com-red?style=flat&logo=gmail)](mailto:puithiraporn@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiraporn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiraporn)
  
-I’m a Java Web Developer with experience building and maintaining web applications. I work on designing, developing, and optimizing web solutions using Java, Spring Boot,   Hibernate, and related technologies. I’m passionate about combining web development with data analysis to create efficient and user-friendly applications.
+I’m a Java Web Developer with experience both development and support web applications. I work on designing, developing, and optimizing web solutions using Java, Spring MVC(Boot) and related technologies. I’m passionate about combining web development with data analysis to create efficient and user-friendly applications.
   
 🌱 **I’m Learning** 🚀
-  - Data engineering & visualization / real-world business applications of data  
   - Web development and new technology  
   - Python
   - CI/CD implementation
+  - Data engineering & visualization / real-world business applications of data  
+
 
 
 💻 **Skills** 🛠
 
-  **Languages:**   Java, Python, SQL, JQuery, HTML, JSP, React, Stored Procedures,VB6
-     
-  **Frameworks:**  Spring MVC, Spring Boot, Hibernate, JPA, Bootstrap
-    
-  **Tools:**   IntelliJ, Eclipse, Power BI, Git, GitHub, SQL Server, MySQL, PostgreSQL ,Oracle,iReport,VScode,tomcate
-    
-  **Areas:**  Java Web Development,Data Analysis
+  🧠 **Languages**  
+  Java • Python • SQL • jQuery • HTML • JSP • React • VB6  
+  
+  ⚙️ **Frameworks**  
+  Spring MVC • Spring Boot • Hibernate • JPA • Bootstrap  
+  
+  🛠 **Tools**  
+  IntelliJ • Eclipse • VS Code • Git • Power BI • Oracle • iReport • Tomcat  
+  
+  🗄 **Database**  
+  SQL Server • MySQL • PostgreSQL • MongoDB  
+  
+  📊 **Areas**  
+  Java Web Development • Data Analysis  
+
 
 
 🔭 **Hobbies** 👺
