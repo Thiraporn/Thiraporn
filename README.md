@@ -49,7 +49,7 @@ I am a Java Web Developer with experience in both development and support of web
 
 You can download my resume here:
 
-👉 **[Download Resume](./20260211_Resume.pdf)** | **[Download Work_Experience](./20260211_ProjectOutline.pdf)** 
+👉 **[Download Resume](./Resume.pdf)** | **[Download Work_Experience](./ProjectOutline.pdf)** 
 
 Feel free to reach out if you have any questions.   
 
@@ -59,7 +59,7 @@ Feel free to reach out if you have any questions.
 
 こちらから履歴書をご覧いただけます:
 
-👉 **[履歴書をダウンロード](./20260211_履歴書%20ティラポーン・ティーゴエン.pdf)**  |  **[職務経歴書をダウンロード](./20260211_職務経歴書%20ティラポーン・ティーゴエン.pdf)**
+👉 **[履歴書をダウンロード](./履歴書%20ティラポーン・ティーゴエン.pdf)**  |  **[職務経歴書をダウンロード](./職務経歴書%20ティラポーン・ティーゴエン.pdf)**
 
 ご不明な点がございましたら、お気軽にお問い合わせください。
 
