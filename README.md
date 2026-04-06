@@ -54,6 +54,9 @@ You can download my resume here:
 Feel free to reach out if you have any questions.   
 
 
+<br> 
+
+
 こちらから履歴書をご覧いただけます:
 
 👉 **[履歴書をダウンロード](./20260211_履歴書%20ティラポーン・ティーゴエン.pdf)**  |  **[職務経歴書をダウンロード](./20260211_職務経歴書%20ティラポーン・ティーゴエン.pdf)**
