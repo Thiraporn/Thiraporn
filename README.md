@@ -49,7 +49,7 @@ I am a Java Web Developer with experience in both development and support of web
 
 You can download my resume here:
 
-👉 **[Download Resume](./Resume.pdf)** | **[Download Work_Experience](./ProjectOutline.pdf)** 
+👉 **[Download Resume](./Resume.pdf)** | **[Download Work Experience](./ProjectOutline.pdf)** 
 
 Feel free to reach out if you have any questions.   
 
