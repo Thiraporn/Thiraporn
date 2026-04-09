@@ -31,7 +31,8 @@ I am a Java Web Developer with experience in both development and support of web
   Bootstrap • Thymeleaf
   
   📊 **Areas**  
-  Java Web Development • Data Analysis  
+  • Java Web Development :  <a href="https://github.com/Thiraporn/react_login_register"> React  </a> |<a href="https://github.com/Thiraporn/SpringBoot_AuthenWithJWTs"> Jwt-Authen  </a>   
+  • Data Analysis  :  <a href="https://github.com/Thiraporn/olist_e_commerce"> Olist e-commerce </a> 
 
 
 <br> 
