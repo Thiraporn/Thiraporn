@@ -4,7 +4,7 @@
  
 I am a Java Web Developer with experience in both development and support of web applications. I work on designing, developing, and optimizing web solutions using Java, Spring MVC/Boot and related technologies. I’m passionate about leveraging SQL, web development with data analysis to create efficient and user-friendly applications.
   
-🌱 **I’m Learning** 
+🌱 **Now,I’m Learning** 
   - Web development and new technology  
   - Python
   - CI/CD implementation
@@ -48,9 +48,9 @@ I am a Java Web Developer with experience in both development and support of web
 
 📄 **For more details** ✨
 
-You can download my resume here:
+You can download my work experience here:
 
-👉 **[Download Resume](./Resume.pdf)** | **[Download Work Experience](./ProjectOutline.pdf)** 
+👉 **[Download Work Experience](./ProjectOutline.pdf)** 
 
 Feel free to reach out if you have any questions.   
 
@@ -58,9 +58,9 @@ Feel free to reach out if you have any questions.
 <br> 
 
 
-こちらから履歴書をご覧いただけます:
+こちらから職務経歴書をご覧いただけます:
 
-👉 **[履歴書をダウンロード](./履歴書%20ティラポーン・ティーゴエン.pdf)**  |  **[職務経歴書をダウンロード](./職務経歴書%20ティラポーン・ティーゴエン.pdf)**
+👉 **[職務経歴書をダウンロード](./職務経歴書%20ティラポーン・ティーゴエン.pdf)**
 
 ご不明な点がございましたら、お気軽にお問い合わせください。
 
