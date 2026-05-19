@@ -36,8 +36,21 @@ I am a Java Web Developer with experience in both development and support of web
 
 ---
 
- <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,hibernate,bootstrap,tailwind,express,jquery,tailwind,vite" /> 
- <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,postman,mysql,postgres,mongodb" /> 
+<div align="left">
+
+  <img
+    src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,hibernate,bootstrap,tailwind,express,jquery,vite"
+    height="45" 
+  />
+
+  <br/> 
+
+  <img
+    src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,postman,mysql,postgres,mongodb"
+    height="45"
+  />
+
+</div>
  
 ---
  
