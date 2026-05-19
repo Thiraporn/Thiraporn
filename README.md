@@ -34,7 +34,13 @@ I am a Java Web Developer with experience in both development and support of web
   • Java Web Development :  <a href="https://github.com/Thiraporn/react_login_register"> React  </a>|<a href="https://github.com/Thiraporn/expressjs_authenjwtswithmongodb"> Jwt-Authen (ExpressJS) </a>    |<a href="https://github.com/Thiraporn/SpringBoot_AuthenWithJWTs"> Jwt-Authen (Spring Boot)  </a>   
   • Data Analysis  :  <a href="https://github.com/Thiraporn/olist_e_commerce"> Olist e-commerce </a> 
 
+---
 
+ <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,hibernate,bootstrap,tailwind,express,jquery,tailwind,vite" /> 
+ <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,postman,mysql,postgres,mongodb" /> 
+ 
+---
+ 
 <br> 
 <br> 
 
