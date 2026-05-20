@@ -1,6 +1,12 @@
 ## Hi there, I'm Thiraporn 👋🛺🇹🇭🪷🐘🌺🌿
  [![Email](https://img.shields.io/badge/Email-puithiraporn@gmail.com-red?style=flat&logo=gmail)](mailto:puithiraporn@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiraporn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiraporn)
+
+ Java | Web Developer | Spring Boot | Data Engineering | SQL
+
+--- 
+
+## 🚀 About Me
  
 I am a Java Web Developer with experience in both development and support of web applications. I work on designing, developing, and optimizing web solutions using Java, Spring MVC/Boot and related technologies. I’m passionate about leveraging SQL, web development with data analysis to create efficient and user-friendly applications.
   
