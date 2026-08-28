@@ -14,7 +14,8 @@ I am a Java Web Developer with experience in both development and support of web
   - Web development and new technology  
   - Python
   - CI/CD implementation
-  - Data engineering & visualization / real-world business applications of data  
+  - Data engineering & visualization / real-world business applications of data
+  - Japanese Speaking
 
 <br> 
 <br> 
