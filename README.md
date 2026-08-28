@@ -65,7 +65,7 @@ I am a Java Web Developer with experience in both development and support of web
 <br> 
 
 🔭 **Hobbies** 👺
-  - 🎥 Watching Movies,Reaing books, Listening to Podcast
+  - 🎥 Watching Movies,Reading books, Listening to Podcast
   - 🎨 Draw digital pictures (Procreate) 
   - 📚 Self-learning (e.g., new skills, languages)  
   - 🗻 Beginner Japanese speaker
