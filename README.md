@@ -29,10 +29,10 @@ I am a Java Web Developer with experience in both development and support of web
   Spring MVC • Spring Boot • Hibernate • JPA 
   
   🛠 **Tools**  
-  IntelliJ • Eclipse • VS Code • Git • Power BI • Oracle • iReport • Tomcat • Excel
+  IntelliJ • Eclipse • VS Code • Git • Power BI • iReport • Tomcat • Excel
   
   🗄 **Database**  
-  SQL Server • MySQL • PostgreSQL • MongoDB  
+  SQL Server • Oracle • MySQL • PostgreSQL • MongoDB  
   
   ⚙️ **Others**  
   Bootstrap • Thymeleaf
