@@ -39,6 +39,7 @@ I am a Java Web Developer with experience in both development and support of web
   
   📊 **Areas**  
   • Web Development :  <a href="https://github.com/Thiraporn/react_login_register"> React  </a>|<a href="https://github.com/Thiraporn/expressjs_authenjwtswithmongodb"> Jwt-Authen (ExpressJS) </a>    |<a href="https://github.com/Thiraporn/SpringBoot_AuthenWithJWTs"> Jwt-Authen (Spring Boot)  </a>   |<a href="https://github.com/Thiraporn/olist-service"> Microservice (Spring Boot + Kotlin)  </a>   |<a href="https://github.com/Thiraporn/batch-assignment"> Spring Batch </a>
+  
   • Data Analysis  :  <a href="https://github.com/Thiraporn/olist_e_commerce"> Olist e-commerce </a> 
 
 ---
