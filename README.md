@@ -33,15 +33,18 @@ I am a Java Web Developer with experience in both development and support of web
   
   🗄 **Database**  
   SQL Server • Oracle • MySQL • PostgreSQL • MongoDB  
-  
+
   ⚙️ **Others**  
-  Bootstrap • Thymeleaf
+  Bootstrap • Thymeleaf • tailwindcss
+  
+  🚀 **CI/CD**  
+  AWS(EC2) • Jenkins • pipeline github plugin • Docker
   
   📊 **Areas**  
   - Web Development :  <a href="https://github.com/Thiraporn/expressjs_authenjwtswithmongodb"> Jwt-Authen (ExpressJS) </a>    |<a href="https://github.com/Thiraporn/SpringBoot_AuthenWithJWTs"> Jwt-Authen (Spring Boot)  </a>   |<a href="https://github.com/Thiraporn/olist-service"> Microservice (Spring Boot + Kotlin)  </a>   |<a href="https://github.com/Thiraporn/batch-assignment"> Spring Batch </a>
   - Fronted :  <a href="https://github.com/Thiraporn/react_login_register"> React  </a>
   - Data Analysis  :  <a href="https://github.com/Thiraporn/olist_e_commerce"> Olist e-commerce </a> 
-
+  - AWS/Jenkins/CICD/Github   :  <a href="https://github.com/Thiraporn/olist-service/tree/DEV-AWS-DEPLOY"> API Microservice </a> 
 ---
 
 <div align="left">
