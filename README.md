@@ -38,13 +38,13 @@ I am a Java Web Developer with experience in both development and support of web
   Bootstrap • Thymeleaf • Tailwindcss
   
   🚀 **CI/CD**  
-  AWS(EC2) • Jenkins • Pipeline • Docker Hub  • GitHub/Webhooks
+  AWS(EC2) • Jenkins • Docker Hub  • GitHub/Webhooks
   
   📊 **Areas**  
   - Web Development :  <a href="https://github.com/Thiraporn/expressjs_authenjwtswithmongodb"> Jwt-Authen (ExpressJS) </a>    |<a href="https://github.com/Thiraporn/SpringBoot_AuthenWithJWTs"> Jwt-Authen (Spring Boot)  </a>   |<a href="https://github.com/Thiraporn/olist-service"> Microservice (Spring Boot + Kotlin)  </a>   |<a href="https://github.com/Thiraporn/batch-assignment"> Spring Batch </a>
   - Fronted :  <a href="https://github.com/Thiraporn/react_login_register"> React  </a>
   - Data Analysis  :  <a href="https://github.com/Thiraporn/olist_e_commerce"> Olist e-commerce </a> 
-  - AWS/Jenkins/CICD/Github   :  <a href="https://github.com/Thiraporn/olist-service/tree/DEV-AWS-DEPLOY"> API Microservice </a> 
+  - AWS/Jenkins Pipeline/Docker/GitHub Webhooks/Ubuntu linux :  <a href="https://github.com/Thiraporn/olist-service/tree/DEV-AWS-DEPLOY"> API Microservice </a> 
 ---
 
 <div align="left">
