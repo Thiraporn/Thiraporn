@@ -13,7 +13,7 @@ I am a Java Web Developer with experience in both development and support of web
 🌱 **Now,I’m Learning** 
   - Web development and new technology  
   - Python
-  - CI/CD implementation
+  - CI/CD implementation (Ansible/Terraform)
   - Data engineering & visualization / real-world business applications of data
   - Japanese Speaking
 
@@ -35,10 +35,10 @@ I am a Java Web Developer with experience in both development and support of web
   SQL Server • Oracle • MySQL • PostgreSQL • MongoDB  
 
   ⚙️ **Others**  
-  Bootstrap • Thymeleaf • tailwindcss
+  Bootstrap • Thymeleaf • Tailwindcss
   
   🚀 **CI/CD**  
-  AWS(EC2) • Jenkins • pipeline github plugin • Docker
+  AWS(EC2) • Jenkins • Pipeline • Docker Hub  • GitHub/Webhooks
   
   📊 **Areas**  
   - Web Development :  <a href="https://github.com/Thiraporn/expressjs_authenjwtswithmongodb"> Jwt-Authen (ExpressJS) </a>    |<a href="https://github.com/Thiraporn/SpringBoot_AuthenWithJWTs"> Jwt-Authen (Spring Boot)  </a>   |<a href="https://github.com/Thiraporn/olist-service"> Microservice (Spring Boot + Kotlin)  </a>   |<a href="https://github.com/Thiraporn/batch-assignment"> Spring Batch </a>
